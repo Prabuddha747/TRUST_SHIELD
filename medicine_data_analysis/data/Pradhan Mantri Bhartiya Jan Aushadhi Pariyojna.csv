@@ -1,0 +1,1206 @@
+"Sr.
+No.",Drug Code,Generic Name of the Medicine,Unit Size,MRP,Therapeutic Category
+1,1,Aceclofenac + Paracetamol (100 mg + 325 mg) Tablets,10's,5.7,Analgesics
+2,2,Aceclofenac 100 mg Tablets IP,10's,3.84,Analgesics
+3,4,"Acetaminophen + Tramadol Hydrochloride (325 mg +
+37.5 mg) film coated  Tablets",10's,5.6,Analgesics
+4,5,ASPIRIN Tablets IP 150 mg,14's,1.9,Analgesics
+5,6,"DICLOFENAC 50 mg+ PARACETAMOL 325 mg+
+CHLORZOXAZONE 500 mg Tablets",10's,12.4,Analgesics
+6,7,"Diclofenac Gel( Diclofenec Diethylamine 1.16 % w/w)
+BP",15 g,8.22,Analgesics
+7,8,Diclofenac Sodium  + Serratiopeptidase (50mg + 10mg) Tab,10's,7.02,"Analgesic and antipyretic
+/Muscle
+relaxant"
+8,9,Diclofenac Sodium (SR)  Tablets  IP 100 mg,10's,6.12,Analgesics
+9,10,Diclofenac Sodium 25mg per ml Inj.  IP,3 ml,3.16,Analgesics
+10,11,Diclofenac Sodium 50 mg Tab  IP,10's,2.3,Analgesics
+11,12,Etoricoxilb 120mg Tab  IP,10's,33.96,Analgesics
+12,13,Etoricoxilb 90mg Tab  IP,10's,25.99,Analgesics
+13,15,Ibuprofen film coated  Tablets  IP 200mg,10's,1.75,"Analgesic and antipyretic
+/Muscle
+relaxant"
+14,20,Nimesulide 100 mg Tab  IP,10's,2.52,Analgesics
+15,21,Paracetamol + Diclofenac Sodium (325 mg + 50 mg) Tab,10's,4.34,Analgesics
+16,22,Paracetamol 125 mg / 5 ml Syrup  IP,"60 ml
+bottles",10.6,Analgesics
+17,23,Paracetamol 500mg Tab  IP,10's,4.51,Analgesics
+18,25,Serratiopeptidase Tablets 10 mg,10's,5.97,Analgesics
+19,26,Tramadol Hydrochloride 50mg/ml Inj.,2ml,3.15,Analgesics
+20,27,Tramadol Hydrochloride 50mg/ml  Inj.,1ml,3.37,Analgesics
+21,28,Tramadol Hydrochloride 50 mg Tab,10's,4.38,Analgesics
+22,30,Amikacin Sulphate 50mg/ml inj.  IP,2ml Vial,7.76,Antiinfective
+23,31,Amikacin 250mg inj.  IP,2ml Vial,11.35,Antiinfective
+24,32,Amikacin 250mg/ml inj.  IP,2ml Vial,17.37,Antiinfective
+25,35,Amoxycillin + Clavulanic acid (1000 mg + 200mg) Powder for Injection IP,Vial with 10 ml WFI,50.63,Antiinfective
+26,36,"Amoxycillin + Clavulanic acid (200 mg+28.5 mg /5ml)
+Powder for suspension IP","30 ml
+bottles",25.79,Antiinfective
+27,37,Amoxycillin + Clavulanic acid (250 mg + 50 mg) Powder for injection IP,Vial with 10 ml WFI,20.02,Antiinfective
+28,39,"Amoxycillin + Clavulanic acid (500 mg + 125 mg) film
+coated Tablets IP",6's,52.24,Antiinfective
+29,40,"AMOXYCILLIN 250 mg+ CLOXACILLIN 250 mg
+Capsules",10's,34.64,Antiinfective
+30,42,Amoxycillin 125 mg Kid Tabs  IP,10's,8.68,Antiinfective
+31,43,Amoxycillin 125mg/ 5ml Powder for Suspension  IP,"60 ml
+bottles",14.84,Antiinfective
+32,44,Amoxycillin 250 mg Caps  IP,10's,14.99,Antiinfective
+33,45,Amoxycillin 500 mg Caps  IP,10's,26.25,Antiinfective
+34,46,Ampicillin Injections I.P. 500mg,"Vial &
+WFI",7.2,"Antiinfective
+Drugs"
+35,47,Azithromycin (100mg/ 5ml) Suspension  IP,"15 ml
+bottles",13,Antiinfective
+36,49,Azithromycin 250 mg film coated Tablets  IP,10's,39.06,Antiinfective
+37,50,Azithromycin 500 mg film coated Tablets  IP,10's,86.6,Antiinfective
+38,51,Cefadroxil film coated Tablets IP 250mg,10's,12.42,"Antiinfective
+Drugs"
+39,53,Cefixime Oral Suspension IP 50 mg/5 ml,"30 ml
+bottle",14.56,Antiinfective
+40,54,Cefixime 100mg film coated Tablets  IP,10's,25.65,Antiinfective
+41,55,Cefixime 200mg film coated Tablets  IP,10's,44.63,Antiinfective
+42,56,Cefoperazone + Sulbactam ( 1g + 1g) Inj.  IP,Vial & wfi,52.68,Antiinfective
+43,57,Cefoperazone + Sulbactam (500 mg + 500 mg) Inj.,Vial & wfi,31.61,Antiinfective
+44,58,Cefoperazone 1 gm Inj.  IP,Vial,31.2,Antiinfective
+45,60,"CEFOTAXIME SODIUM 250 MG & SULBACTAM
+SODIUM 125 MG INJECTION","VIAL &
+WFI",18.59,Antiinfective
+46,62,Cefotaxime Sodium Injections IP 1000mg,"Vial &
+WFI",15.93,"Antiinfective
+Drugs"
+47,63,Cefotaxime Sodium Injections IP 250 mg,"Vial &
+WFI",7.88,"Antiinfective
+Drugs"
+48,65,Cefpodoxime 100 mg   IP,10's,35.9,Antiinfective
+49,66,Cefpodoxime 200 mg film coated Tablets  IP,10's,69.12,Antiinfective
+50,67,Ceftazadime 1000 mg Injections,"Vial &
+WFI",66.83,"Antiinfective
+Drugs"
+51,69,Ceftazadime 500 mg Injections,"Vial &
+WFI",44.33,"Antiinfective
+Drugs"
+52,70,Ceftriaxone + Sulbactam (1000 mg + 500 mg) Inj.,Vial & wfi,38.89,Antiinfective
+53,71,Ceftriaxone + Tazobactum 1000 mg + 125 mg Inj.,Vial & wfi,44.46,Antiinfective
+54,73,Ceftriaxone +Sulbactam (250 mg + 125 mg),Vial & wfi,15.82,Antiinfective
+55,74,Ceftriaxone +Sulbactam (500 mg + 250 mg) Injections,"10ml Vial
+& WFI",29.66,"Antiinfective
+Drugs"
+56,75,Ceftriaxone Injections IP 1 g,"5ml Vial
+& WFI",23.98,"Antiinfective
+Drugs"
+57,76,Ceftriaxone 250 mg Inj.  IP,Vial & wfi,11.8,Antiinfective
+58,78,Cefuroxime Axetil 250 mg film coated Tablets  IP,10's,66.37,Antiinfective
+59,79,Cefuroxi me Axetil 500mg film coated Tablets  IP,10's,128.86,Antiinfective
+60,80,Cephalexin 125 mg DT  IP,10's,12.04,Antiinfective
+61,81,Cephalexin 250 mg Caps  IP,10's,24.09,Antiinfective
+62,82,Cephalexin 500 mg Caps  IP,10's,51.34,Antiinfective
+63,83,"CIPROFLOXACIN 250 MG+ TINIDAZOLE 300 MG
+FILM COATED TABLETS",10's,22.12,Antiinfective
+64,84,"Ciprofloxacin + Tinidazole (500 mg + 600 mg) film
+coated Tablets",10's,36.77,Antiinfective
+65,85,Ciprofloxacin 250 mg film coated Tablets IP,10's,14,Antiinfective
+66,86,Ciprofloxacin 500 mg film coated Tablets  IP,10's,22,Antiinfective
+67,87,Clotrimazole 1% w/w 0int.    IP,15 g tubes,9,Antiinfective
+68,95,Levofloxacin 250 mg film coated Tablets  IP,10's,19.08,Antiinfective
+69,96,Levofloxacin 500 mg film coated Tablets  IP,10's,35.74,Antiinfective
+70,97,Meropenem 1gm Inj.  IP,Vial & wfi,255.41,Antiinfective
+71,98,"NORFLOXACIN 400 mg + TINIDAZOLE  600 mg FILM
+COATED Tablets",10's,32.35,Antiinfective
+72,100,"Ofloxacin + Ornidazole (200 mg + 500 mg) film coated
+Tablets",10's,22.55,Antiinfective
+73,101,Ofloxacin 200 mg film coated Tablets  IP,10's,14.8,Antiinfective
+74,102,Ofloxacin 400 mg film coated Tablets  IP,10's,26.2,Antiinfective
+75,104,Roxithromycin Suspension strength 50 mg/ 5ml,"30 ml
+bottles",15.28,Antiinfective
+76,105,Roxithromycin 150 mg film coated Tablets  IP,10's,25.2,Antiinfective
+77,106,Roxithromycin Tablets I.P. film coated strength  300 mg,10s,48.05,Antiinfective
+78,107,Tinidazole 300 mg film coated Tablets,10s,9.45,"Antiinfective
+Drugs"
+79,108,Tinidazole 500 mg film coated Tablets  IP,10's,12.19,Antiinfective
+80,109,"VANCOMYCIN INTRAVENOUS INFUSION  IP 500
+mg","Vial
+&WFI",90.82,Antiinfective
+81,110,Adapalene 0.1 % w/v Ointment,15 g tubes,21.38,Antiinfective
+82,112,BECLOMETHASONE IP 0.025% w/w+ CLOTRIMAZOLE  IP 1% w/w+ GENTAMYCIN  IP 0.1% w/w CREAM,15 GM,10.95,Antiinfective
+83,115,Calamine lotion 100 ml,"100ml
+bottle",19.52,Antiinfective
+84,117,CHLORHEXIDINE MOUTHWASH IP 0.2 % w/v,100 ml,16.35,Antiinfective
+85,119,Fluconazole 150 mg Tablets  IP,10's,23.175,Antiinfective
+86,120,Fusidic Acid Cream I.P. strength 2 % w/v,10 g tubes,21.15,Antiinfective
+87,124,Povidone Iodine 5% w/w Ointment  USP,"250 gm
+tubes/Jar",90,Antiinfective
+88,125,Povidone Iodine 5%w/w Ointment  USP,"15 gm
+tubes",10.72,Antiinfective
+89,126,Povidone Iodine 10 % Solution  IP,"500 ml
+bottles",127.2,Antiinfective
+90,127,Povidone lodine 5% Solution 100ml,"100ml
+bottle",17.71,Antiinfective
+91,128,Povidone Iodine 5 % Solution  IP,"500 ml
+bottles",78.5,Antiinfective
+92,129,Povidone Iodine 7.5% Solution  IP,"500 ml
+bottles",105.44,Antiinfective
+93,130,"Ravlon Solution (Chlorhexidine + Cetramide  ) (1.5 %
+w/v + 3% w/v) Solution","100 ml
+bottles",19.16,Antiinfective
+94,133,Glibenclamide 2.5 mg Tabs IP,10's,2.6,Antidiabetic
+95,134,Glibenclamide 5 mg Tabs   IP,10's,4.05,Antidiabetic
+96,135,Gliclazide 40 mg Tabs  IP,10's,11.93,Antidiabetic
+97,136,Gliclazide 80 mg Tabs  IP,10's,20.25,Antidiabetic
+98,137,Glimeperide 1mg Tab  IP,10's,3.8,Antidiabetic
+99,138,Glimeperide 2mg Tabs  IP,10's,5.05,Antidiabetic
+100,141,Glipizide 5 mg Tablets  IP,10's,2.5,Antidiabetic
+101,142,"INSULIN INJECTION IP 40 IU/ml (Insulin Human
+Recombinant)",10 ml Vial,118.61,Antidiabetic
+102,144,"METFORMIN HYDROCHLORIDE SUSTAIN
+RELEASE TABLETS IP  1000 MG",10's,11.05,Antidiabetic
+103,145,Metformin Hydrochloride 500mg Tabs  IP,10's,5.15,Antidiabetic
+104,146,Pioglitazone 15 mg Tabs,10's,6.75,Antidiabetic
+105,147,Pioglitazone Tablets I.P. strength 30 mg,10s,10.69,Antidiabetic
+106,150,Metformin (SR) 500mg + Pioglitazone 15 mg Tablets,10s,13.97,Antidiabetic
+107,153,CISPLATIN INJECTION IP 10 MG,"VIAL &
+WFI",84.41,Anticancer
+108,155,Doxorubicin 10 mg Inj.  IP,Vial,76.49,Anticancer
+109,156,Doxorubicin 50 mg Inj.  IP,Vial,250.47,Anticancer
+110,159,Gemcitabine 1000 mg Inj.  IP,Vial,631.21,Anticancer
+111,160,Gemcitabine 200 mg Inj.  IP,Vial,154.49,Anticancer
+112,163,Tamoxifen Citrate Tablets  I.P. strength 10 mg,10s,9.56,Anticancer
+113,164,Tamoxifen Citrate Tablets I.P. strength  20 mg,10s,13.5,Anticancer
+114,165,CIPROFLOXACIN INJECTION IP 2MG/ML,100 ml,18.34,Antiinfective
+115,169,Levofloxacin Infusion I.P. strength 500 mg,"100 ml
+bottles",25.72,Antiinfective
+116,170,MANNITOL INJECTION IP 20% w/v,100 ml,37.93,Urology
+117,172,Metronidazole 5 mg / ml Infusion,100ml,7.5,"Antiinfective
+Drugs"
+118,177,Albendazole (200 mg/ 5ml) Syrup IP,"10 ml
+bottles",7.02,Antiinfective
+119,178,ALBENDAZOLE 400 mg + IVERMECTIN 6 mg Tablets,1's,4.09,Antiinfective
+120,179,Albendazole 400mg Tabs  IP,10's,18,Antiinfective
+121,180,Bisacodyl 5mg  Tablets  IP,10's,4.02,GIT
+122,181,"TRICHOLINE CITRATE 275 mg+ CYPROHEPTADINE
+HCl 2 mg/5ml SYRUP",200 ml,27.15,GIT
+123,183,Dicyclomine 10 mg Tabs  IP,10's,2.28,Analgesics
+124,184,"Dicyclomine HCL + Paracetamol (20mg + 325 mg)
+Tablets",10's,5.36,GIT
+125,186,Domperidone Tablets IP 10 mg,10's,3.62,GIT
+126,187,Domperidone 5 mg. / 5 ml Syrup  IP,"30 ml
+bottles",8.94,GIT
+127,188,"ANTACID Tablets [DRIED Al(OH)3 + Mg(OH)2 +
+SIMETHICONE (250mg + 250mg + 50mg)",10's/,3.8,GIT
+128,191,FAMOTIDINE TABLETS IP 20 MG,14's,3.42,GIT
+129,192,FAMOTIDINE TABLETS IP 40 MG,14's,5.5,GIT
+130,195,Ispagula Husk Powder  IP,"200gm
+pack",84,GIT
+131,196,"LACTOBACILLUS SPOROGENES 60 MILLION
+SPORES TABLETS",10's,3.49,PROBIOTIC
+132,197,Lactulose  Syrup 10 gm/ 15 ml,"100 ml
+bottle",91.5,GIT
+133,198,"Aluminium Hydroxide + Magnesium Hydroxide
+(250+250mg / 5ml)  Suspension",170 ml,22.32,GIT
+134,199,Metoclopramide 10 mg Tabs  IP,10's,3.25,GIT
+135,200,Metoclopramide Injections IP 5mg/ml,2 ml,2.25,GIT
+136,201,Metronidazole Film Coated Tablets IP 200mg,10's,2,"Antiinfective
+Drugs"
+137,202,Metronidazole Tablets IP 400mg,10's,3.75,"Antiinfective
+Drugs"
+138,203,Misoprostol 200 mcg film coated Tablets  IP,4's,4.13,Gynaecology
+139,206,Omeprazole  + Domperidone (20 mg + 10 mg) Caps,10's,8.49,GIT
+140,207,Omeprazole 20 mg capsuls  IP,10's,6.82,GIT
+141,208,ONDENSETRON INJECTION IP 2 mg/ml,2 ML,3.08,GIT
+142,209,Ondansetron 4 mg Tabs IP,10's,2.84,GIT
+143,210,Ornidazole 500 mg film coated Tablets  IP,10's,14.9,Antiinfective
+144,212,Pantoprazole 40 mg enteric coated Tablets  IP,10's,7.2,GIT
+145,213,Pantoprazole 40mg Inj.,vial,10.93,GIT
+146,214,Rabeprazole + Domperidone SR (20 mg + 30 mg)caps.,10's,10.71,GIT
+147,215,Rabeprazole 20 mg enteric coated Tablets IP,10's,7.16,GIT
+148,216,RANITIDINE INJECTION IP 50 MG/ 2ML,2 ML,2.66,GIT
+149,217,Ranitidine HCl. 150 mg film coated Tablets  IP,10's,6.39,GIT
+150,218,RANITIDINE Tablets IP 300 mg FILM COATED,10's,7.1,GIT
+151,220,"Calcium carbonate 1250mg + Vitamin D3 250iu  Tablets
+film coated",10s,3.74,"VITAMIN &
+SUPPLE"
+152,223,"PYRIDOXINE HCl 10 mg+ DOXYLAMINE 10 mg +
+FOLIC ACID 2.5 mg Tablets",30's,22.89,"VITAMIN &
+SUPPLE"
+153,224,Folic Acid Tablets IP 5mg,10's,3.08,"Vitamins, minerals  & Food Supplement"
+154,225,"IRON HYDROXIDE POLYMALTOSE COMPLEX EQ TO ELEMENTAL IRON  50 MG+ FOLIC ACID 0.5 MG
+/5 ML SYRUP",200 ML,34.5,VITAMIN & SUPPLE
+155,225,"Iron(eq. to elemental iron 50mg) + Folic Acid(0.5mg)
+/15ml Syrup","200 ml
+bottles",21.37,"VITAMIN &
+SUPPLE"
+156,227,Polyvitamin (Prophylactic) NFI film coated Tablets,10's,4.72,"VITAMIN &
+SUPPLE"
+157,229,"Haematinic  Syrup of Iron , acid and Vitamin B12 100ml","100ml
+bottle",16.3,"VITAMIN &
+SUPPLE"
+158,230,"VITAMIN B COMPLEX (B1,B2,B6,B12) & VIT. C
+WITH ZINC 22.5 MG CAPSULES",10's,6.78,"VITAMIN &
+SUPPLE"
+159,231,"VITAMIN B1 10MG, B2 10 MG, NIACINAMIDE 45 MG, CALCIUM PANTOTHENATE  50 MG, B6 3 MG AND B12 15 MCG TABLETS",10's,8.11,VITAMIN & SUPPLE
+160,232,VITAMIN B-VOMPLEX  Syrup NFI,200 ML,24.08,"VITAMIN &
+SUPPLE"
+161,233,Ascorbic Acid Tablets IP 100 mg(Vitamin-C Chewable Tablet  IP 100mg),10's,4.28,"Vitamins, minerals  & Food Supplement"
+162,235,BUDESONIDE RESPULES 0.5 MG,2 ML,11.02,"RESPIRATOR
+Y"
+163,239,Cetrizine (5 mg/ 5 ml) Syrup  IP,"60 ml
+bottles",10.32,"RESPIRATOR
+Y"
+164,240,Cetrizine 10mg film coated Tablets  IP,10's,1.84,"RESPIRATOR
+Y"
+165,243,"COUGH SYRUP [DIPHEN.14 mg. + AMMONIUM CHL.135 mg. + SOD.CIT.57 mg. + MENTHOL  0.9
+mg/5ml]",110 ml,12.6,RESPIRATOR Y
+166,244,"Theophylline  25.3 mg+ Etophylline 84.7mg /2ml
+Injections",2ml,1.83,Respiratory
+167,245,Etophyllin +Theophylline (77 mg + 23 mg) Tabs,10's,1.83,Respiratory
+168,246,Fexofenadine 120 mg film coated Tablets IP,10's,19.81,"RESPIRATOR
+Y"
+169,247,Fexofenadine 180 mg film coated Tablets IP,10's,27.54,"RESPIRATOR
+Y"
+170,248,Levocetrizine 5 mg film coated Tablets  IP,10's,2.3,"RESPIRATOR
+Y"
+171,250,Montelukast Sodium 5 mg Tab  IP,10's,9.04,"RESPIRATOR
+Y"
+172,251,Montelukast Sodium 10 mg Tab  IP,10's,12.73,"RESPIRATOR
+Y"
+173,252,"Montelukast Sodium + Levocetrizine (10 mg + 5mg) film
+coated  Tablets",10's,12.64,"RESPIRATOR
+Y"
+174,253,PHENIRAMINE Tablets IP 25 mg,15's,4.64,"RESPIRATOR
+Y"
+175,256,SALBUTAMOL 2 MG,10's,0.75,"RESPIRATOR
+Y"
+176,259,Salbutamol Syrup  IP 2mg /5ml,"100ml
+Bottle",8,Respiratory
+177,260,Salbutamol Tablets IP 4mg,10's,0.85,Respiratory
+178,263,"Amlodipine + Atenolol (5 mg + 50 mg) film coated
+Tablets",10's,3.54,CVS
+179,264,Amlodipine 5mg Tablets  IP,10's,2.68,CVS
+180,265,Atenolol 50 mg Tabs  IP,14's,5.02,CVS
+181,266,Atorvastatin 10mg film coated  Tablets  IP,10's,5.11,CVS
+182,267,Atorvastatin 20 mg film coated  Tablets  IP,10's,9.2,CVS
+183,269,Clopidogrel 75mg Tabs  IP,10's,12.01,CVS
+184,270,ASPIRIN 75 mg + CLOPIDOGREL 75 mg Tablets,10's,19.16,CVS
+185,271,Diltiazem Tablets I.P. strength  30 mg,10s,7.8,CVS
+186,273,Dobutamine 250 mg/ 20ml Inj.  IP,Vial,32.71,CVS
+187,275,Enalpril Tablets I.P. strength 5mg,10s,2.86,CVS
+188,276,Enoxaparin 40 mg/0.4 ml Inj.  IP,0.4 ml,183.01,CVS
+189,277,Enoxaparin 60 mg/0.6 ml Inj.  IP,0.6 ml,222.89,CVS
+190,278,FRUSEMIDE INJECTION IP (10 MG/ ML),2 ML,1.54,CVS
+191,279,Frusemide 40 mg Tabs  IP,10's,2.3,CVS
+192,283,Isosorbide Dinitrate 10 mg Tabs  IP,10's,3.56,CVS
+193,285,AMLODIPINE 5 MG + LISINOPRIL 5 MG TABLETS,15's,12.33,CVS
+194,286,Lisinopril 5mg Tabs  IP,10's,7.16,CVS
+195,287,"Losartan + H.Ch. Thaizide (50 mg + 12.5mg) film coated
+Tablets  IP",10's,9.05,CVS
+196,288,Losartan 25mg film coated  Tablets  IP,10's,5.04,CVS
+197,289,Losartan Potassium 50 mg film coated  Tablets  IP,10's,9,CVS
+198,290,Metoprolol 25 mg Tabs  IP,10's,5.04,CVS
+199,291,Metoprolol 50 mg Tabs  IP,10's,4.76,CVS
+200,293,Ramipril 2.5 mg Tabs  IP,10's,6.75,CVS
+201,294,Ramipril 5 mg Tabs  IP,10's,9.68,CVS
+202,295,Simvastatin Tablets I.P. strength 10 mg,10s,9.99,CVS
+203,296,Simvastatin Tablets I.P. strength 20 mg,10s,12.44,CVS
+204,298,"Telmisartan + Hydrochlorthiazide (40 mg + 12.5 mg )
+Tabs",10's,15.3,CVS
+205,299,TELMISARTAN Tablets  IP  20 mg,10's,6.73,CVS
+206,300,Telmisartan 40 mg Tabs  IP,10's,8.7,CVS
+207,301,Tranexamic Acid 500 mg Tabs  IP,10's,58.22,CVS
+208,302,TRANEXAMIC ACID 100 MG/ ML  injection,5 ML,17.89,CVS
+209,304,Arteether 150mg/2ml inj IP,2ml Vial,13.8,Antiinfective
+210,305,Chloroquine Phosphate  250 mg film coated Tablets,10's,4.9,"Antiinfective
+Drugs"
+211,306,PRIMAQUINE TABLETS IP 15 MG,10's,8.34,Antiinfective
+212,311,Disodium hydrogen Citrate (Alkalyser) 1.4 mg/5ml Syrup,"100 ml
+bottles",16.69,Urology
+213,312,"Oral Rehydration Salts Citrate IP 21 GM (WHO Formula)
+Sachet  IP",1S,4.85,GIT
+214,313,Alprazolam 0.25 mg film coated  Tablets  IP,10's,1.84,CNS
+215,314,Alprazolam 0.5 mg film coated  Tablets  IP,10's,2.97,CNS
+216,316,Betahistine Tablets I.P. strength 8 mg,10s,5.15,CNS
+217,317,Carbamazepine 100mg Tabs  IP,10's,3.2,CNS
+218,318,Carbamazepine 200mg Tabs  IP,10's,12.6,CNS
+219,319,Clonazepam 0.5 mg Tabs  IP,10's,3.9,CNS
+220,320,Diazepam 5 mg Tabs  IP,10's,2.41,CNS
+221,321,Escitalopram 10 mg Tabs  IP,10's,4.83,CNS
+222,322,Escitalopram 20 mg Tabs  IP,10's,7.16,CNS
+223,323,FLUNARZINE TABLETS 10MG,10's,3.84,CNS
+224,324,FLUNARZINE TABLETS 5MG,10's,3.26,CNS
+225,325,Fluoxetine hydrochloride 20 mg Caps  IP,10's,5.96,CNS
+226,326,Methyl Ergometrine 0.125mg Tabs  IP,10's,9.06,CNS
+227,327,PHENYTOIN Tablets IP 100 mg,"100's in
+Bottle",45.08,CNS
+228,328,Prochlorperazine 5 mg Tabs  IP,10's,2.93,CNS
+229,329,Prednisolone Tablets IP 5 MG,15's,3.9,Drugs acting on endocrine gland including steroids & immunosupress ant
+230,330,Prednisolone 10 mg Tabs  IP,10's,4.5,Drugs acting on endocrine gland including steroids & immunosupress ant
+231,331,THYROXINE SODIUM TABLETS IP 50  µg,10's,4.55,HORMONE
+232,333,Dexamethasone Tablets I.P. strength 0.5 mg,10s,0.9,STEROID
+233,333,DEXAMETHASONE 0.5 MG TABS  IP,10's,0.9,STEROID
+234,334,DEXAMETHASONE INJECTION IP 4 MG/ML,2ML,5.14,STEROID
+235,336,Allopurinol 100 mg Tabs  IP,10's,6.95,ANTIGOUT
+236,337,Clomiphene citrate Tablets I.P. strength 50 mg,10s,15.04,Gynaecology
+237,338,ATROPINE  SULPHATE INJECTION IP 0.6MG/ ML,1 ML,2.44,"ANTICHOLIN
+ERGIC"
+238,341,"CARBOXY METHYL CELLULOSE EYE DROPS IP
+0.5% w/v",10 ML,18.43,OPTH
+239,344,Ciprofloxacin 0.3% w/V Eye drops,5ml,6.74,OPTH
+240,351,Xylometazoline 0.1 % w/v Nasal Drop  IP,10 ml,7.63,OPTH
+241,356,LIGNOCAINE INJECTION IP  2% w/v,"30 ML
+VIAL",15.13,"ANAESTHESI
+C"
+242,357,Ligncaine 10mg + Adrenaline 0.005mg/ml inj.,30 ml vial,19.83,"ANAESTHESI
+C"
+243,358,Propofol 10mg/ ml Inj,10ml vial,54.79,"ANAESTHESI
+C"
+244,360,MIFEPRISTONE Tablets IP 200 mg,1's,58.67,Gynaecology
+245,361,OXYTOCIN INJECTION IP  5 iu /ml,1 ML,9.48,Gynaecology
+246,362,Biphasic Isophane Insulin Injection IP 4O IU/ML (50:50),10 ml Vial,67,Antidiabetic
+247,363,Insulin Glargine 100 IU Injections,"Cartridge/
+Vial 3ml",200,Antidiabetic
+248,364,"GLIMEPIRIDE 2 mg  + METFORMIN
+HYDROCHLORIDE 500 mg SR Tablets",10's,17.78,Antidiabetic
+249,365,"GLICLAZIDE 80 mg + METFORMIN
+HYDROCHLORIDE Tablets 500 mg",10's,32.06,Antidiabetic
+250,366,"GLIPIZIDE 5 MG + METFORMIN HYDROCHLORIDE
+500 MG TABLETS",10's,6.8,Antidiabetic
+251,367,VOGLIBOSE Tablets IP 0.3 mg,10's,9.92,Antidiabetic
+252,368,GLICLAZIDE TABS/CAPS SR 60 MG,10's,37.62,Antidiabetic
+253,369,ACARBOSE TABLETS IP 50 MG,10's,55.9,Antidiabetic
+254,371,VOGLIBOSE Tablets IP 0.2 mg,10's,9.61,Antidiabetic
+255,372,"METFORMIN HYDROCHLORIDE TABLETS IP
+PROLONG RELEASE 500 MG",10's,8.85,Antidiabetic
+256,373,ARTESUNATE INJECTION 60 MG,1 Vial,24.12,Antiinfective
+257,374,"ARTEMETHER 80 MG +  LUMEFANTRINE
+(BANFLUMETOL) 480 MG SR TABLETS",6's,55.89,Antiinfective
+258,375,"QUININE SULPHATE  TABLETS IP 300 MG FILM
+COATED TABLETS",10's,54.75,Antiinfective
+259,376,IMIPENEM AND CILASTATIN INJ IP (500mg+500mg),"Vial &
+WFI",384.25,Antiinfective
+260,377,CLINDAMYCIN CAPSULES IP 300 MG,10's,54.77,Antiinfective
+261,379,Rifampicin and Isoniazide Tablets IP (450 MG+300 MG),10's,35.03,"Antiinfective
+Drugs"
+262,380,CLARITHROMYCIN Tablets IP 500 mg,4's,66.23,Antiinfective
+263,381,CEFIXIME 200 mg + OFLOXACIN 200 mg Tablets,10's,68.29,Antiinfective
+264,382,LINEZOLID TABLETS IP 600 MG,10's,176.16,Antiinfective
+265,383,"CEFPODOXIME  200 mg+ CLAVULANIC ACID 125
+mg Tablets",6's,81.11,Antiinfective
+266,384,ITRACONAZOLE Capsules 100 mg,4's,20.15,Antiinfective
+267,385,"CEFIXIME 200 mg + CLAVULANIC ACID 125 mg (AS
+POT.CLAVULANATE )Tablets",10's,102.74,Antiinfective
+268,386,DIETHYLCARBAMAZINE Tablets IP 50 mg,30's,10.73,Antiinfective
+269,387,TERBINAFINE 250 MG TABLETS,7's,31.66,Antiinfective
+270,390,ETHAMBUTOL  TABLETS IP 800 MG,10's,31.05,"RESPIRATOR
+Y"
+271,391,MOXIFLOXACIN TABLETS 400 MG,5's,91.98,Antiinfective
+272,393,ACYCLOVIR  DISPERSIBLE TABLETS IP 800 MG,5's,35.3,Antiinfective
+273,395,"CEFUROXIME 500 mg+ CLAVULANIC ACID 125 mg
+(AS  POT.CLAVULANATE ) Tablets",6's,122.14,Antiinfective
+274,400,KETOCONAZOLE Tablets IP 200 mg,10's,25.9,Antiinfective
+275,401,"AMOXYCILLIN 250mg WITH POTASSIUM
+CLAVULANATE 125mg Tablets IP",6's,39.61,Antiinfective
+276,402,"AMOXYCILLIN and POTASSIUM CLAVULANATE
+Tablets IP (875mg+125mg)500+125",6's,62.57,Antiinfective
+277,403,CLINDAMYCIN INJ IP 300 MG/2 ML,2 ML,51.65,Antiinfective
+278,404,LINEZOLID INFUSION 600 MG/300 ML,300 ML,95.15,Antiinfective
+279,405,OFLOXACIN INFUSION IP 200 mg /100 ml,100 ml,23.01,Antiinfective
+280,406,"ACICLOVIR INTRAVENOUS  INFUSION IP 500
+MG/VIAL",VIAL,77.63,Antiinfective
+281,407,IVERMECTIN  TABLETS 12 MG,10's,6.99,Antiinfective
+282,414,"TRANEXAMIC ACID 500 mg+ MEFENAMIC ACID
+250 mg Tablets",10's,78.09,Analgesics
+283,416,PRAZOSIN TABLETS IP 5 MG,15's,26.4,CVS
+284,417,TELMISARTAN IP 40 mg+ AMLODIPINE 5 mg Tablets,15's,17.66,CVS
+285,418,ROSUVASTATIN Tablets IP 20 mg,10's,27.34,CVS
+286,420,Atorvastatin + Clopidogrel(10/75mg) Capsules,10's,29.21,CVS
+287,422,TORASEMIDE Tablets 10 mg,15's,17.3,CVS
+288,423,BISOPROLOL TABLETS 5 MG,10's,27.04,CVS
+289,424,CARVEDILOL TABLETS IP 3.125 MG,10's,5.45,CVS
+290,425,DILTIAZEM TABLETS  SR 90 MG,10's,20.18,CVS
+291,426,ACENOCOUMAROL TABLETS 2 MG IP,30's,51.43,CVS
+292,427,S-AMLODIPINE TABLETS IP 2.5 MG,10's,7.65,CVS
+293,428,DIGOXIN Tablets IP 250 µg   [0.25 mg ],10's,6.53,CVS
+294,429,"ATORVASTATIN 10 mg+ FENOFIBRATES  160 mg
+Tablets",15's,24.39,CVS
+295,430,AMIODARONE Tablets IP 200 mg,10's,67.92,CVS
+296,431,"RAMIPRIL and HYDROCLORTHIAZIDE TABLETS IP
+(5MG+12.5 MG)",10's,9.1,CVS
+297,432,OLMESARTAN Tablets 40 mg,10's,26.71,CVS
+298,434,PROPRANOLOL Tablets IP 40 mg,10's,4.95,CVS
+299,435,"ROSUVASTATIN 10 mg + FENOFIBRATES 160 mg
+Tablets",10's,24.7,CVS
+300,436,"TELMISARTAN  40 mg+ CHLORTHALIDONE 12.5 mg
+Tablets",10's,23.15,CVS
+301,437,"NIFEDIPINE PROLONGED RELEASE Tablets  IP 20
+mg",10's,7.09,CVS
+302,438,INDAPAMIDE TABLETS IP 1.5 MG,10's,6.98,CVS
+303,439,"OLMESARTAN MEDOXOMIL 40 mg +
+HYDROCLORTHIAZIDE 12.5 mg Tablets",10's,21.24,CVS
+304,440,"METOPROLOL 50 MG  + AMLODIPINE 5 MG
+TABLETS",7's,9.7,CVS
+305,441,LOSARTAN 50 MG+ AMLODIPINE 5 MG TABLETS,10's,9.6,CVS
+306,443,ISOSORBIDE DINITRATE TABLETS IP 5 MG,50's,31.5,CVS
+307,445,OLMESARTAN  20 mg+ AMLODIPINE 5 mg Tablets,10's,24.32,CVS
+308,449,SPIRONOLACTONE TABLETS  IP 25 MG,15's,24.06,CVS
+309,450,LABETALOL TABLETS IP 100 MG,10's,43.65,CVS
+310,451,STREPTOKINASE INJECTION IP 1500000 IU,"10 ml  &
+wfi",1344.5,CVS
+311,452,WARFARIN TABLETS IP 5  MG,10's,4.28,CVS
+312,454,VALSARTAN TABLETS IP 80 MG  IP,10's,29.95,CVS
+313,456,ATORVASTATIN Tablets IP 40 mg,10's,15.86,CVS
+314,457,TORASEMIDE TABLETS 20 MG,10's,13.85,CVS
+315,458,LABETALOL INJECTION IP 5 mg/ml,4 ml Vial,91.99,CVS
+316,459,"HYDROQUINONE  2 % + MOMETASONE  0.1% +
+TRETINOIN 0.025 % cream",20gm,20.96,DERMA
+317,461,"BETAMETHASONE VALERAT 0.1 % w/w +
+NEOMYCIN SULFATE  0.5 % w/w  CREAM",20 GM,14.85,DERMA
+318,463,MUPIROCIN OINTMENT IP 2 % w/w,5gm,39.13,Antiinfective
+319,465,"DOMPERIDONE 30 mg+ PANTOPRAZOLE 40 mg
+Capsules    [SR]",10's,18.48,GIT
+320,466,URSODEOXYCHOLIC ACID Tablets IP 300 mg,10's,150.13,NEPHRO
+321,467,"DICYCLOMINE 10 mg+ MEFENAMIC ACID 250 mg
+Tablets",10's,7.51,Analgesics
+322,470,"PEPSIN 10 MG+ DIASTASE 50 MG ORAL LIQUID /5
+ML",200 ML,40.45,GIT
+323,471,"OXETACAINE 10 MG+ ALUMINIUM 0.291 MG +
+MAGNESIUM 98 MG /5 ML GEL",200 ML,31.67,GIT
+324,472,Domperidone + Esomeprazole(30/40mg) Capsule,10's,19.35,GIT
+325,473,"LEVOSULPIRIDE 75 MG+ PANTOPRAZOLE 40 MG
+CAPSULE",10's,60.16,GIT
+326,474,"DOXYLAMINE SUCCINATE 10 mg+ PYRIDOXINE
+HCl 10 mg Tablets",30's,17.17,GIT
+327,475,SUCRALFATE SUSPENSION 500 mg/5ml,200 ml,73.38,GIT
+328,476,"LIQUID PARAFFIN 1.25 ML+  MILK OF MAGNESIA
+3.75ML+ SODIUM PICOSULPHATE 3.33MG /5ML EMULSION",170 ML,52.4,GIT
+329,477,CLIDINIUM BROMIDE 2.5 MG+ CHLORDIAZEPOXIDE 5 MG FILM COATED TABLETS,10's,5.69,GIT
+330,478,SODIUM PICOSULPHATE 10 mg Tablets,10's,8.24,GIT
+331,479,"TRICHOLINE CITRATE 550 MG + SORBITOL 7.15
+GM SYRUP/10 ML",200 ML,30.57,GIT
+332,480,"LEVOSULPIRIDE 75 MG+ ESOMEPRAZOLE 40 MG
+CAPSULES",10's,54.56,GIT
+333,482,"LEVOSULPIRIDE (SR) 75 mg+ RABEPRAZOLE
+(EC)20 mg  Capsules",10's,45.41,GIT
+334,483,LOPERAMIDE Capsules  IP 2 mg,10's,6.16,GIT
+335,484,"ESOMEPRAZOLE Tablets  IP 40 mg   (ENTERIC
+COATED)",10's,14.33,GIT
+336,485,PROMETHAZINE  (FILM COATED) Tablets IP 25 mg,10's,5.27,GIT
+337,487,"DICYCLOMINE 10 MG + DIMETHICONE 40 MG /5
+ML SUSPENSION",30 Ml,12.13,GIT
+338,491,ITOPRIDE Tablets 50 mg,10's,14.46,GIT
+339,492,SULFASALAZINE TABLETS EC BP 500 MG,10's,18.5,GIT
+340,495,FERROUS AMMONIUM CITRATE 160 MG + CYANO COBALAMINE 7.5 MCG + FOLIC ACID 0.5 MG/15ML SYRUP,200 ML,17.23,VITAMIN & SUPPLE
+341,497,"KIT OF MIFEPRISTONE 200 mg (1 TABLET) +
+MISOPROSTOL 200 mg (4 Tablets )",1's,72.47,Gynaecology
+342,498,"FERROUS ASCORBATE 100MG WITH  FOLIC ACID
+1.5MG TABLETS",10's,14.34,"VITAMIN &
+SUPPLE"
+343,499,NORETHISTERONE Tablets IP 5 mg,10's,13.73,Gynaecology
+344,500,LEVO-THYROXINE SODIUM TABLETS IP 100 MCG,"100's in A
+Bottle",65.33,HORMONE
+345,501,BETAMETHASONE TABLETS IP 0.5 MG,20's,6.74,STEROID
+346,502,DEFLAZACORT Tablets 6 mg,6's,10.93,STEROID
+347,503,"METHYLPREDNISOLONE SODIUM SUCCINATE
+INJECTION 1000  MG PER VIAL","VIAL &
+WFI",494.81,STEROID
+348,504,"NANDROLONE DECANOATE INJECTION IP
+25MG/ML",1 ML,16.75,STEROID
+349,506,Levo-Thyroxine Tablets IP  50 MCG IP,100's in Bottle,6.75,Hormones & other endocrine medicines
+350,507,CARBIMAZOLE TABLETS IP 5 MG,10's,8.8,"ANTI
+THYROID"
+351,508,LEVETIRACETAM Tablets 500 mg,10's,55,CNS
+352,509,HYDROXYCHLOROQUINE Tablets IP 200 mg,10's,38.08,Antiinfective
+353,510,"PARACETAMOL  325 mg+ TRAMADOL  37.5 mg
+Tablets",10's,7.41,Analgesics
+354,511,PARACETAMOL Tablets IP 650 mg,15's,8.03,Analgesics
+355,512,"ACECLOFENAC 100 mg + PARACETAMOL 325 mg +
+SERRATIOPEPTIDASE 15 mg Tablets",10's,7.96,Analgesics
+356,513,PIROXICAM Capsules IP  20 mg,10's,7.32,Analgesics
+357,514,"CHYMOTRYPSIN + TRYPSIN (1:6 ) TABLETS 100K
+AU",20's,49.31,GIT
+358,515,MEFENAMIC ACID SUSPENSION 100 mg/5 ml,60 ml,14.92,Analgesics
+359,516,ACECLOFENAC Tablets SR/CR 200 mg,10's,10.75,Analgesics
+360,517,"THIOCOLCHICOSIDE  4 mg+ ACECLOFENAC  100
+mg Tablets",10's,36.67,Analgesics
+361,518,BACLOFEN Tablets IP 10 mg,10's,12.05,Analgesics
+362,519,KETOROLAC TABLETS DT 10 MG,10's,7.65,Analgesics
+363,520,"MEFENAMIC ACID  500 MG+ PARACETAMOL  325
+MG TABLETS",10's,11.45,Analgesics
+364,521,TRAMADOL TABLETS SR 100 MG,10's,28.4,Analgesics
+365,522,"ALFACALCIDOL SOFT GELATIN CAPSULES 0.25
+MCG",10's,19.91,"VITAMIN &
+SUPPLE"
+366,525,"DICLOFENAC 1.16 w/w+ LINCEED OIL3% w/w+ METHYL SALICYLATE 10% w/w+MENTHOL 5%
+w/w GEL",30 GM,17.41,Analgesics
+367,528,"PARACETAMOL 500 mg+ PHENYLEPHRINE 10 mg+
+CHLORPHENIRAMINE 2 mg Tablets",10's,7.57,"RESPIRATOR
+Y"
+368,531,"GUAIFENESIN 100 mg+ TERBUTALINE  2.5  mg+
+BROMHEXINE 8 mg /10 ml SYRUP",100 ml,15.51,"RESPIRATOR
+Y"
+369,535,"TERBUTALINE 2.5 MG + BROMHEXINE 8 MG /10
+ML SYRUP",100 ML,24.26,"RESPIRATOR
+Y"
+370,539,ACETYLCYSTEINE Tablets 600 mg,10's,25.58,"RESPIRATOR
+Y"
+371,541,ACEBROPHYLLINE Capsules 100 mg,10's,18.13,"RESPIRATOR
+Y"
+372,542,SODIUM CHLORIDE 0.65% w/v NASAL DROPS,20 ml,8.03,ENT
+373,544,FLUTICASONE PROPIONATE RESPULE 0.5 MG/2ML,2 ML,13.61,"RESPIRATOR
+Y"
+374,555,DOXOFYLLINE TABLETS IP 400 MG,10's,23.68,"RESPIRATOR
+Y"
+375,556,"MONTELUKAST 10 MG + FEXOFENADINE HCl 120
+MG TABLETS",10's,55.89,"RESPIRATOR
+Y"
+376,560,"FLUTICASONE PROPIONATE 50 MCG PER PUFF
+NASAL SPRAY",120 MD,151.54,"RESPIRATOR
+Y"
+377,562,LORATIDINE Tablets BP 10 mg,10's,6.89,"RESPIRATOR
+Y"
+378,563,OXYMETAZOLINE 0.5 MG /ML NASAL DROPS,10 ML,10.48,ENT
+379,569,SILDENAFIL Tablets IP  50 mg,4's,7.72,UROLOGY
+380,570,TADALAFIL Tablets 20 mg,4's,7.63,UROLOGY
+381,571,"TAMSULOSIN 0.4 MG + DUTASTERIDE 0.5 MG
+TABLETS",15's,14.25,UROLOGY
+382,574,VACCINE  RABIES INJECTION 2.5 IU,1 ml,240.91,"VACCINES &
+SERA"
+383,580,"ginseng extract 42.5 mg, vitamin A 2500 IU, vitamin B1 1 mg, vitamin B2 1.5 mg, vitamin B6 1 mg, vitamin B12 1 mcg, vitamin C 50 mg, vitamin E 5 mg, vitamin D 200 IU, nicotinamide 10 mg, carbohydrates 0.1 g, folic acid 0.15 mg, ferrous fumarate 30 mg, copper 0.5 mg, potassium sulphate 2 mg, manganese 0.5 mg, magnesium sulphate 3 mg, zinc oxide 10 mg, calcium 75 mg, phosphate 58 mg, iodine 0.1 mg, protein 0.2 g, fat 0.38 g",10's,13.59,VITAMIN & SUPPLE
+384,581,"CALCIUM CARBONATE 500 MG + CALCITRIOL 0.25
+MCG + ZINC 7.5 MG Tablets",10's,14.18,"VITAMIN &
+SUPPLE"
+385,582,"VITAMINS A,C,D,E,AND B COMPLEX AND
+MINERALS SYRUP",200 ML,42.58,"VITAMIN &
+SUPPLE"
+386,583,CYPROHEPTADINE Tablets IP 4 mg,10's,6.7,GIT
+387,585,"VITAMIN D - CHOLECALCIFEROL 60000 IU /1 GM
+Sachet",1 Sachet,7.8,"VITAMIN &
+SUPPLE"
+388,585,Cholecalciferol-60000 iu granules,"1gm
+sachet",12.64,"VITAMIN &
+SUPPLE"
+389,587,"APPETITE ENHANCER (PEPTONE, MINERALS,
+VITAMINS )SYRUP",300 ML,50.75,"VITAMIN &
+SUPPLE"
+390,588,Vitamin E  Softgel Capsules 400 MG,10's,10.2,"Vitamins, minerals  & Food Supplement"
+391,589,CALCIUM 500 mg+ CALCITRIOL 0.25 mg Tablets,15's,7.4,"VITAMIN &
+SUPPLE"
+392,591,METHYLCOBALAMIN  500 MCG INJECTION,1 ML,7.06,"VITAMIN &
+SUPPLE"
+393,592,"L-LYSINE + MULTIVITAMINS (VIT-B1,B2,B3,B5,B6 )
+SYRUP",200 ML,29.11,"VITAMIN &
+SUPPLE"
+394,596,ZINC SULPHATE  20 MG/ ML ORAL SOLUTION,15 ML,12.33,"VITAMIN &
+SUPPLE"
+395,597,VITAMIN B6 TABLETS IP 50 MG,10's,7.9,"VITAMIN &
+SUPPLE"
+396,598,"PREGABALIN 75 mg+ METHYLCOBALAMIN 750
+MCG Tablets",10's,29.62,"VITAMIN &
+SUPPLE"
+397,599,PREGABALIN TABLETS 75 MG,10's,14.66,CNS
+398,601,Disulfiram IP 500 mg,4s,7.34,CNS
+399,603,"Cetirizine Dihydrochloride IP…5 mg., Phenylephrine Hydrochloride IP…10 mg., Paracetamol IP…325 mg.",10s,7.65,RESPIRATOR Y
+400,606,Cyproheptadine 4 mg,10's,2.25,GIT
+401,607,"Beclamethasone Dipropionate..0.025% w/, Neomycin Sxulphate..0.5% w/w ( 3500 Unit /G) Chlorocresol 0.1% w/w",15gm,10.75,Drugs acting on Skin (Topical/local applicable)
+402,608,Betamethasone 0.05% w/w + Salicylic acid 3% w/w,20 Gm,17.87,STEROID
+403,610,"Cold Suspn.N/F (Paracetamol 125 mg+ Phenylephrine
+Hydrocloride IP 5mg +",60ml,12.55,"RESPIRATOR
+Y"
+404,611,"Cyproheptadine, Hydrochloride(anhydrous) IP..2 mg.In a
+flavoured syrup base  ….q.s.",200 ml.,21.48,GIT
+405,612,Dusting Powder (Povidone 5%  Powder,"10 Gm
+Container",28.62,Antiinfective
+406,613,"Diclofenac Potassium BP 50 mg + Paracetamol 325 mg +
+Serratiopeptidase 10 mg",10's,9.22,Analgesics
+407,614,"Ear Drops (Paradichlorobenzene 2%+Benzocaine
+2.7%+Chlorbutol  5%+Turpentine Oil15%",10ml,12.21,ENT
+408,621,"Iron & Zinc (Carbonyl Iron 50 mg+ Zinc Sulphate Monohydrate USP 61.8 mg equivalent to Elemental Zinc
+22.5 mg + Folic Acid IP 0.5mg",15's,8.42,VITAMIN & SUPPLE
+409,626,"Dandruf Shampoo  KETOCONAZOLE IP SHAMPOO
+2% W/V","100ml
+Bottle",47.82,DERMA
+410,627,Etophylline IP 115mg + Theophylline 35mg Tablet,10's,6.66,"RESPIRATOR
+Y"
+411,630,"laxative Suspension Liqid Paraffin 3.75ml+Milk of
+Magnesia 11.25ml)","170ml
+Bottle",23.93,GIT
+412,633,"Anti-acne  Gel Adapalene BP…0.1 % w/w, Clindamycin Phosphate USP equivalent to Clindamycin…1% w/w,
+Methyl Paraben IP…0.1 % w/w, Phenoxyethanol
+BP…0.25 % w/w","15
+gms.Tube",26.09,DERMA
+413,634,"Clobetasol Propionate BP…0.05 % w/w, Neomycin
+Sulphate IP…0.50 % w/w., Miconazole Nitrate IP…2.00
+% w/w,Chlorocresol IP( as preservative) 0.10 % w/w Cream/Ointment",20gm,16.07,Drugs acting on Skin (Topical/local applicable)
+414,637,"Aceclofenac 100 mg + Paracetamol 325 mg +
+Chorzoxazone 250 mg film coated tab.",10's,11.64,Analgesics
+415,639,"Mucodilator Expectorant Terbutaline Sulphate 1.25 mg, Bromhexine 4 mg, Guaiphenesin 50 mg, Menthol 2.5 mg
+per 5 ml",100 ml,10.99,RESPIRATOR Y
+416,640,Nimesulide 1% W/W Gel,"20 Gm
+tube",12.42,Analgesics
+417,643,"Paracetamol 125mg+  CPM 1 mg + Sodium Citrate 60mg
+in a  flavour syrup base","60 ml
+Bottle",12.19,"RESPIRATOR
+Y"
+418,644,"Phenylephrine Hydrochloride 5.00mg Chlorpheniranmine
+Maleate 2.00mg Drops","15ml
+Bottle",10.95,"RESPIRATOR
+Y"
+419,646,"Diclofenac diethylamine BP 1.116% (equivalent to diclofenac sodium 1.0%, Linseed oil BP 3.0% + Methyl Salicylate IP 10.0%, Capsiacin USP 0.025%, Menthol IP 0.025%, Benzyl alcohol IP 1.0% (as preservative) In a gel
+base q.s.",30 Gm,21.06,Analgesics
+420,647,"Diclofenac + Menthol 5%+ Oleum 3% + Methyl
+Salicylate Gel",20gm,15.53,Analgesics
+421,648,"Dethylamine BP…1.16 %, Linseed Oil BP…3 % w/w, Methyl Salicylate IP…10 % w/w, Menthol IP…5  % w/w, Excipients and Propellant q.s. to…100 % w/w Spray",35 gms.,19.21,DERMA
+422,649,Dicyclomine 10mg + Act. Dimethicone 40mg per ml,"10ml
+Bottle",9.51,GIT
+423,651,"Paracetamol IP…125 mg., Mefanamic Acid IP…50 mg.,
+in a flavoured syrupy base…q.s.",60 ml.,11.47,Analgesics
+424,652,Dicyclomine 10mg + Mefenamic 250 mg,10's,6.09,Analgesics
+425,653,Syrup Vitamin D3 200 IU + Vitamin B12 2.5 mcg + Calcium Phosphate eq. to elemental Calcium 82 mg / 5 ml,225 ml,23.29,VITAMIN & SUPPLE
+426,655,"Enyme Syrup Mix Fruit Flavour Pepsin 7.5 mg + Fungal
+Diastase 12.5 mg / 5 ml",200 ml,46.55,GIT
+427,656,"Enzyme Drops Pepsin (1:3000) 5 mg + Fungal Diastase
+(1:1200) 33.33 mg/ml",15ML,15.62,GIT
+428,657,"Hydroquinone 2.0% w/w + Tretinoin 0.025% w/w +
+Mometasone Furoate 0.1% w/w in a cream base q.s",15gm,25.2,DERMA
+429,658,Chlorhexidine Gluconate 0.3% v/v + Cetrimide 0.6% w/v,100 ml,12.11,Antiinfective
+430,659,Chlorhexidine Gluconate 0.3% v/v + Cetrimide 0.6% w/v,200 ml,15.93,Antiinfective
+431,664,"Mouth Ulcer Gel (Choline Salicylate sodium 9% w/v,
+Benzalkonium Chloride 0.01% w/w)",10 gm,12.44,Antiinfective
+432,666,"Pheniramine Maleate I.P. 22.75mg,Methyl Paraben(as preservative) I.P. 0.135% w/v, Propyl Paraben(as preservative) I.P. 0.015% w/v, Water for injection I.P. q.s.",2ml,5.27,RESPIRATOR Y
+433,667,Paracetamol I.P. 125 mg:,15ml,7.76,Analgesics
+434,669,Syrup - Cefuroxime 125mg(asCefuroxime Axetil USP),30ml,31.05,Antiinfective
+435,670,"Diacerein 50 mg +Methylsulphonylmethane 250 mg +
+Glucosamine sulphate 750 mg tab.",10's,38.81,Analgesics
+436,671,Diacerein 50 mg + Glucosamine Sulphate 500 mg,10's,34.93,Analgesics
+437,672,Mometasone Furoate 0.1 % w/w,15gm,14.47,Antiinfective
+438,676,Trimcelone Acetonide 0.1 % Mouth Ulcer gel,10gm,21.26,Antiinfective
+439,680,Finaestride 5 mg,10's,57.25,CVS
+440,682,Rabeprazole 20mg + Domperidone 10mg,10's,6.26,GIT
+441,683,Rabeprazole Sodium ip  20mg + Itopiride HCL 150mg,10's,26.39,GIT
+442,685,Pantoprazole 40mg +  Itopride 150mg S.R.,10's,31.05,GIT
+443,686,Magaldrate 400 mg + Simethiocone 20 mg,170 ml,22.32,GIT
+444,687,Lactulose 10gm/15 ml,200 ml,72,GIT
+445,688,Nitroglycerine Injection 5mg/ ml,10 ml Vial,31.61,CVS
+446,689,Clotrimazole 100 mgVaginal Tab,10's,11.93,Antiinfective
+447,690,Timolol Maeleate 0.5 % Eye Drops,5 ml Vial,14.36,CVS
+448,691,Ofloxacin Eye Drops 0.3% w/v,10 ml,9,Antiinfective
+449,692,Olopattadine Eye Drops,10 ml Vial,15.04,ENT
+450,694,Tobramycin Eye Drops,10 ml Vial,11.83,ENT
+451,697,Sulfacetamide eye drop 10 %,10 ml,10.67,ENT
+452,698,Sulfacetamide eye drop 20 %,20 ml,18.97,ENT
+453,699,Acyclovir Eye Ointment,5gm,16.5,Antiinfective
+454,704,Cephalexin 125mg/5ml dry syrup,30ml,14.56,Antiinfective
+455,705,Levofloxacin 500 mg INFUSION / IV,100ml,29.08,Antiinfective
+456,706,Cefpodoxime proxetil 50 mg DS dry syrup,30ml,22.02,Antiinfective
+457,708,Piroxicam 20 mg btablets,10's,4.6,Analgesics
+458,709,Piroxicam 20 mg with bezyl alcohol injection,1ml,4.74,Analgesics
+459,710,Piroxicam 40 mg with bezyl alcohol injection,2ml,5.69,Analgesics
+460,712,Paracetamol DS syrup /250 mg,60ml,10.19,Analgesics
+461,713,Glibenclamide 5mg + MetforminHcl 500 mg tab,10's,10.34,Antidiabetic
+462,714,Ofloxacin 200mg+Ornidazole 500mg infusion,100 ml,57.04,"Antiinfective
+Drugs"
+463,715,Glycerin ip 98%w/w,50 gm,16.48,DERMA
+464,716,"Urea IP 1 % + Salicylic Acid IP 1% w/w Zinc Sulphate
+0.1 % w/w",10 gm,11.66,DERMA
+465,718,Escitalopram 10mg with  Clonazepam 0.5mg,10's,10.09,CNS
+466,720,Ringer Lactate,"500ml IV
+fluid plastic container using FFS technolog y",31.61,IV Electrolyte
+467,723,Water for Injection amp polypack,10ml,2.97,DILUENT
+468,734,Dehydroepiandrosterone 25 mg Capsule,10's,50.5,Drugs acting on endocrine gland including steroids & immunosupress ant
+469,739,Cefuroxime 125 mg tablet,6's,34.77,Antiinfective
+470,740,Clarithromycin 250 mg tablet,10's,69.21,Antiinfective
+471,741,Cefpodoxime Proxetil dispersible tablet 50 mg,10's,22.2,Antiinfective
+472,747,Glimipride 3 mg tablet,10's,3.78,Antidiabetic
+473,748,Glimipride 4 mg tablet,10's,4.37,Antidiabetic
+474,752,Clotrimazole 1% 100 gm powder,"100 gm
+Powder",45.3,Antiinfective
+475,753,"Clotrimazole 1% w/w, Beclometasone Dipropionate 0.025% w/w 15 ml lotion",15 ml Lotion in Bottle,10.67,Antiinfective
+476,754,"Clotrimazole 1% w/w, Beclometasone Dipropionate 0.025% w/w cream 15 gm tube",15 gm Cream,10.28,Antiinfective
+477,757,Cefuroxime Injection 1500 mg,10 ml,72.47,Antiinfective
+478,759,Rosuvastatin Tablet 10 mg,15's,24.76,CVS
+479,762,Nortriptyline Tablet 25 mg Tablet,10's,8.5,CNS
+480,764,Etizolam Tablet 0.5mg,10's,8.11,CNS
+481,766,L-methylfolate calcium 7.5mg Tablet,10's,59,"Vitamins, minerals  & Food
+Supplement"
+482,767,Metformin 1000mg SR + Glimipride 2mg Tablet,10's,18.23,Antidiabetic
+483,768,Acetazolamide Tablets I.P 250mg,10's,16,Diuretic Drugs
+484,769,Acetyl Salicylic Acid (Aspirin)Tablet I.P 325mg,14's,5.11,"Analgesic and antipyretic
+/Muscle
+relaxant"
+485,772,Adenosine Injection 3mg/ml,2ml,99.5,CNS
+486,781,"Alprazolam-0.25 mg, Fluoxetine 20 mg Tablets",10's,7.76,CNS
+487,784,Amisulpride Tablets I.P 50mg,10's,26.92,CNS
+488,786,Amitriptyline hydrochloride 10mg Tablets I.P,10's,4.1,CNS
+489,788,Anastrozole Tablets IP  1mg,10's,114.8,CNS
+490,790,Aspirin enteric coated Tablets I.P.  75mg,14's,6.93,CVS
+491,791,"Atenolol 25 mg,  Amlodipine 5 mg Tablets",14's,11.25,CVS
+492,793,Atenolol 25 mg tab,14's,2.81,CVS
+493,796,"Atorvastatin I.P 10mg, Aspirin I.P (EC) 75mg Capsules",10's,17.24,CVS
+494,797,Atracurium Besilate Injection I.P 25mg/2.5ml,2.5 ML,44.5,"Analgesic and antipyretic
+/Muscle
+relaxant"
+495,800,"Bacitracin Zinc 250 Iu Neomycin 5 Mg, Sulphacetamide Sodium 60 Mg Per 1gm Powder",10gm Powder,20,"Drugs acting on Skin (Topical/local
+applicable)"
+496,804,Betamethasone Inj. I.P 4 mg/ml,1ml,2.05,Respiratory
+497,806,Bicalutamide Tab I.P 50mg,10's,137.5,Anticancer
+498,807,Biphasic Isophane Insulin Injection I.P 100 Iu/ml (30:70 ) (30% Soluble Insulin And 70% Isophane Insulin),3 ml Cartrirdge,146.75,Antidiabetic
+499,809,Bortezomib Injection 3.5 mg,Vial,31.88,anticancer
+500,811,Bromfenac Sodium Eye Drop 0.09%,5ml,28.13,ENT
+501,815,Calcitriol Capsules I.P 0.25mcg,10's,24.3,"VITAMIN &
+SUPPLE"
+502,819,Capecitabine Tab I.P 500mg,10's,420,CVS
+503,820,Carboprost Tromethamine Injection IP 250 mcg/ml,1ml,68,HORMONE
+504,821,Carvedilol Tablets IP 6.25mg,10's,5.83,CVS
+505,832,Chlorthalidone Tablets 12.5mg,10's,11.31,CVS
+506,837,Cilnidipine Tablets 20mg,10's,37.7,CVS
+507,838,Cilostazol Tablets IP 50mg,10's,47.23,CVS
+508,840,Citicoline Tablets 500mg,10's,169.88,CNS
+509,844,Clonazepam Tablets IP 1mg,10's,13.2,CNS
+510,860,Dextromethorphan HBr Syrup IP 13.5mg/5ml,50ml,22.08,"RESPIRATOR
+Y"
+511,865,Diacerein Capsules IP 50mg,10's,36.11,Analgesic
+512,868,Dicyclomine HCl (Dicycloverine) Injection IP 10mg/ml,2ml,3.49,GIT
+513,878,"Drotaverine HCl 80mg, Mefenamic Acid 250mg Tablets",10's,15.27,ANALGESIC
+514,879,Drotaverine HCl Tablets IP 40mg,10's,6.79,ANALGESIC
+515,881,Ebastine Film Coated Tablets 10mg,10's,7.16,Antiinfective
+516,882,Efavirenz Tablets IP 600mg,30's,422.92,Antiinfective
+517,888,Febuxostat Tablets 40mg,10's,16.6,urology
+518,889,Febuxostat Tablets 80mg,10's,37.67,"Analgesic and antipyretic
+/Muscle
+relaxant"
+519,893,Filgrastim 300mcg/1ml Prefilled Syringe,1's,259.2,Antiinfective
+520,901,Gabapentin Capsules USP 300mg,10's,24.07,cvs
+521,904,Glimepiride 1mg Metformin 500mg Tablets,10's,6.73,Antidiabetic
+522,905,"Glimepiride 2mg, Metformin Hydrochloride 1g Tablets",10's,29.7,Antidiabetic
+523,913,Hydrocortisone Sodium Succinate Injection IP 100mg,Vial,23.94,steroid
+524,915,Hydroxyzine HCl Tablets IP 10mg,10's,4.04,cvs
+525,916,Imatinib mesylate Tablets IP 400mg,10's,497,cvs
+526,923,Isosorbidemononitrate Tablets IP 20mg,10's,7,CVS
+527,926,Ketoconazole Cream 2%w/w,"15gm
+Tube",16.58,Antiinfective
+528,933,Leflunomide Tablets IP 20mg,10's,90.65,Drugs acting on endocrine gland including steroids & immunosupress ant
+529,934,Lenalidomide  Capsules 10mg,10's,422,anticancer
+530,935,Letrozole Tablets 2.5mg,10's,42.4,Antiinfective
+531,937,Levetiracetam Syrup100 Mg/5ml,100ml,116.3,CNS
+532,945,Levosulpiride Tablets 25mg,10's,9.49,Antiinfective
+533,946,Lignocaine (Lidocaine) Hydrochloride Gel IP 2% w/v,20g,19.6,Anesthetic
+534,948,Lorazepam Tablets IP 1mg,10's,6.73,cns
+535,949,Lorazepam Tablets IP 2mg,10's,6.3,cns
+536,955,"Mefenamic Acid 50mg, Paracetamol 125mg/5ml
+Suspension",60ml,11,ANALGESIC
+537,960,Metformin SR Tablets IP 850mg,10's,12.38,Antidiabetic
+538,968,Mirtazapine Tablets 15mg,10's,22.28,CNS
+539,975,"Nebivolol 5 mg, Hydrochlorothiazide 12.5 mg Tab.",10's,40,CVS
+540,976,Nebivolol Tablets IP 10mg,10's,25.75,CVS
+541,978,Nepafenac 0.1% w/v Eye Drop,5ml,45,ENT
+542,987,Nitrofurantoin Tablets I.P 100mg,10's,15.28,urology
+543,990,Olanzapine Tablets I.P 10mg,10's,17.48,CNS
+544,991,Olanzapine Tablets I.P 5mg,10's,8.1,CNS
+545,992,Olmesartan Tablets 20mg,10's,15.18,CVS
+546,993,Ondansetron Oral Solution I.P 2 mg/5ml,30ml,10.8,GIT
+547,994,Oxaliplatin Injections 50mg,Vial,430,Anticancer
+548,996,Oxcarbazepine Tablets I.P 300mg,10's,39,CNS
+549,997,Paclitaxel Injection 100mg,Vial,540,Anticancer
+550,1003,Permethrin Cream 5% w/w,30gm,26.66,DARMA
+551,1005,Phenobarbitone Tablets I.P 30mg,30's,9,CNS
+552,1011,Piracetam Syrup 500mg/5ml,100 ML,42.75,CNS
+553,1012,Piracetam Tablets 400mg,10's,13.48,CNS
+554,1022,Prochlorperazine Maleate Tablets I.P 5mg,10's,4.23,CNS
+555,1024,Promethazine Injection I.P 25 mg/ml,2ml,3.1,steroid
+556,1026,Propranolol Tablets IP 10mg,10's,3.51,CVS
+557,1029,Pyrazinamide Tablets I.P 1000mg,10's,50,Antiinfective
+558,1031,Quetiapine Fumarate Tablets I.P 200mg,10's,61,CNS
+559,1032,Quetiapine Tablets I.P 100mg,10's,33.5,CNS
+560,1042,Risperidone Tablets 4mg,10's,9.56,CNS
+561,1044,Rosuvastatin Tablet I.P 5mg,10's,16.58,CVS
+562,1049,Sertraline Tablets 50mg,10's,15.99,CNS
+563,1050,Sertraline Tablets I.P 100mg,10's,20.14,CNS
+564,1051,Sertraline Tablets I.P 25mg,10's,9,CNS
+565,1059,Sodium Valproate EC Tablets I.P 200mg,10's,21,CVS
+566,1060,Sodium Valproate Tablets 300mg,10's,18.45,CNS
+567,1068,Sucralfate 1gm With Oxetacain 10mg/10ml Suspension,100ml,58,GIT
+568,1072,Tamsulosin Modified-Release Capsules 0.4 mg,10's,39.87,urology
+569,1074,"Telmisartan 80mg, Hydroclorthiazide 12.5mg Tablets",10's,19.1,CVS
+570,1075,Teneligliptin Film coated tablets 20mg,10's,49.5,Antidiabetic
+571,1091,Vecuronium Bromide Injection I.P 4mg,Vial,31.4,Muscle relaxant
+572,1098,"Voglibose 0.2mg, Metformin 500mg Tablets",10's,13.97,Antidiabetic
+573,1099,"Voglibose 0.3 mg, Metformin 500mg Tablets",10's,19.89,Antidiabetic
+574,1105,Zolpidem Tablets I.P 10mg,10's,18.23,CNS
+575,1106,Telmisartan+Metoprolol (50/40 mg) Tablets,10's,25.97,CVS
+576,1107,Pregabalin Capsules 75mg,14's,19.85,CVS
+577,1108,Sildenafil Tablets 100 mg,4's,9.61,Drugs acting on Urogenital organs
+578,1110,Clobazam Tablet 5mg,10's,13.39,CNS
+579,1111,Gabapentin+Nortriptyline(400/10mg) Tablets,10's,71.62,CNS
+580,1112,Cinnarizine Tablets 25mg,10's,4.14,CNS
+581,5001,Absorbent Cotton Wool I.P. 75 gm (Non Sterile),1's,30.69,"SURGICAL
+ITEM"
+582,5002,Absorbent Cotton Wool I.P. 200gm (Non Sterile),1's,72.45,"SURGICAL
+ITEM"
+583,5004,Crepe Bandage B.P. 15 cmX4 meter,1's,54.61,"SURGICAL
+ITEM"
+584,5005,Crepe Bandage B.P. 10 cmX4 meter,1's,37.67,"SURGICAL
+ITEM"
+585,5006,"Cotton Bandages(Non Sterile) , Size 7.5 cmX4M as per
+Schedule F-II",1's,109.12,"SURGICAL
+ITEM"
+586,5007,"Cotton Bandages(Non Sterile) , Size 10 cmX4M as per Schedule
+F-II",1's,145.08,"SURGICAL
+ITEM"
+587,5010,"Syringe 2ml with needle 24G(Sterile, single use, disposable, as
+per BIS)",1's,2.24,"SURGICAL
+ITEM"
+588,5011,"Syringe 5ml with needle 24 G(Sterile, single use, disposable, as
+per BIS)",1's,2.64,"SURGICAL
+ITEM"
+589,5012,"Syringe 10ml with needle 21G(Sterile, single use, disposable, as
+per BIS)",1's,4.65,"SURGICAL
+ITEM"
+590,5013,"Syringe 20ml with needle 23G(Sterile, single use, disposable, as
+per BIS)",1's,8.78,"SURGICAL
+ITEM"
+591,5014,"Needle 16G(Sterile, single use, disposable, as per BIS)",1's,1.57,"SURGICAL
+ITEM"
+592,5015,"Needle 18G(Sterile, single use, disposable, as per BIS)",1's,1.45,"SURGICAL
+ITEM"
+593,5016,"Needle 23G(Sterile, single use, disposable, as per BIS)",1's,0.9,"SURGICAL
+ITEM"
+594,5017,"Needle 26G half inch (Sterile, single use, disposable, as per BIS)",1's,0.9,"SURGICAL
+ITEM"
+595,5019,"Paper Adhesive Plaster 1"" X 9.0 mts Non woven adhesive tape",One,22.05,"SURGICAL
+ITEM"
+596,5019,"Paper Adhesive Plaster 1"" X 9.0 mts Non woven adhesive tape",One,22.05,"SURGICAL
+ITEM"
+597,5020,"Paper Adhesive Plaster 2"" X 9.0 mts Non woven adhesive tape",One,44.07,"SURGICAL
+ITEM"
+598,5021,"Paper Adhesive Plaster 3"" X 9.0 mts Non woven adhesive tape",One,66.16,"SURGICAL
+ITEM"
+599,5022,Plaster of Paris Bandages BP 15cm X 2.7mts / Roll,One,50.95,"SURGICAL
+ITEM"
+600,5023,Plaster of Paris Bandages BP 10cm X 2.7mts / Roll,One,33.9,"SURGICAL
+ITEM"
+601,5024,"Scalp Vein Set (Disposable) Size 18G Sterile ,Soft, kink
+resistant, non-toxic, non irritant tube",One,6.83,"SURGICAL
+ITEM"
+602,5025,"Scalp Vein Set (Disposable) Size 20G, Sterile ,Soft, kink
+resistant, non-toxic, non irritant tube",One,4.95,"SURGICAL
+ITEM"
+603,5026,"Scalp Vein Set (Disposable) Size 22G,Sterile ,Soft, kink
+resistant, non-toxic, non irritant tube",One,4.95,"SURGICAL
+ITEM"
+604,5027,"Scalp Vein Set (Disposable) Size 24G Sterile ,Soft, kink
+resistant, non-toxic, non irritant tube",One,4.95,"SURGICAL
+ITEM"
+605,5039,Sterile Disposable Spinal Needle for Single Use 22G x 3 inch,One,55.22,"SURGICAL
+ITEM"
+606,5040,Sterile Disposable Spinal Needle for Single Use 25G x 3 inch,One,55.22,"SURGICAL
+ITEM"
+607,5041,"Urine Collecting Bag, Disposable, 2000 ml ,Kink resistant
+flexible tubing not less than 90 cm in length ,Should have non- return valve ,Top drainage outlet ,Graduated Bag",One,21.28,SURGICAL ITEM
+608,5046,"ENDOTRACHEAL TUBE ,PLAIN, SIZE 2.5 ,Single use,
+sterile ,Standard 15 mm connector at proximal end ,Tip suitable for nasal and oral intubation",One,31.28,SURGICAL ITEM
+609,5047,"ENDOTRACHEAL TUBE ,PLAIN, SIZE 3 ,Single use, sterile
+,Standard 15 mm connector at proximal end ,Tip suitable for nasal and oral intubation",One,31.28,SURGICAL ITEM
+610,5048,"ENDOTRACHEAL TUBE ,PLAIN, SIZE,3.5 ,Single use,
+sterile ,Standard 15 mm connector at proximal end ,Tip suitable for nasal and oral intubation",One,31.28,SURGICAL ITEM
+611,5049,"ENDOTRACHEAL TUBE ,PLAIN, SIZE 4, Single use, sterile
+,Standard 15 mm connector at proximal end ,Tip suitable for nasal and oral intubation",One,31.28,SURGICAL ITEM
+612,5050,"ENDOTRACHEAL TUBE ,PLAIN, SIZE 4.5Single use, sterile
+,Standard 15 mm connector at proximal end ,Tip suitable for nasal and oral intubation",One,31.28,SURGICAL ITEM
+613,5051,"ENDOTRACHEAL TUBE ,PLAIN, SIZE 5, to 8, ,Single use,
+sterile ,Standard 15 mm connector at proximal end ,Tip suitable for nasal and oral intubation",One,31.28,SURGICAL ITEM
+614,5052,"ENDOTRACHEAL TUBE ,PLAIN, SIZE 8.5 ,Single use,
+sterile ,Standard 15 mm connector at proximal end ,Tip suitable for nasal and oral intubation",One,31.28,SURGICAL ITEM
+615,5053,"ENDOTRACHEAL TUBE , CUFFED , SIZE 4 ,Soft cuff
+towards the distal end ,Kink resistant inflation tube ,Sterile, single use ,Curved shaped blister pack suiting the shape of product",One,55.68,SURGICAL ITEM
+616,5054,"ENDOTRACHEAL TUBE , CUFFED , SIZE 4.5, ,Soft cuff
+towards the distal end ,Kink resistant inflation tube ,Sterile, single use ,Curved shaped blister pack suiting the shape of product",One,55.68,SURGICAL ITEM
+617,5055,"ENDOTRACHEAL TUBE , CUFFED , SIZE 5,Soft cuff
+towards the distal end ,Kink resistant inflation tube ,Sterile, single use ,Curved shaped blister pack suiting the shape of product",One,55.68,SURGICAL ITEM
+618,5056,"ENDOTRACHEAL TUBE , CUFFED , SIZE 6,Soft cuff
+towards the distal end ,Kink resistant inflation tube ,Sterile, single use ,Curved shaped blister pack suiting the shape of product",One,55.68,SURGICAL ITEM
+619,5057,"ENDOTRACHEAL TUBE , CUFFED , SIZE 6.5,Soft cuff
+towards the distal end ,Kink resistant inflation tube ,Sterile, single use ,Curved shaped blister pack suiting the shape of product",One,55.68,SURGICAL ITEM
+620,5058,"ENDOTRACHEAL TUBE , CUFFED , SIZE 7,Soft cuff
+towards the distal end ,Kink resistant inflation tube ,Sterile, single use ,Curved shaped blister pack suiting the shape of product",One,55.68,SURGICAL ITEM
+621,5059,"ENDOTRACHEAL TUBE , CUFFED , SIZE 7.5 ,Soft cuff
+towards the distal end ,Kink resistant inflation tube ,Sterile, single use ,Curved shaped blister pack suiting the shape of product",One,55.68,SURGICAL ITEM
+622,5060,"ENDOTRACHEAL TUBE , CUFFED , SIZE 8,Soft cuff
+towards the distal end ,Kink resistant inflation tube ,Sterile, single use ,Curved shaped blister pack suiting the shape of product",One,55.68,SURGICAL ITEM
+623,5061,"ENDOTRACHEAL TUBE , CUFFED , SIZE 8.5Soft cuff
+towards the distal end ,Kink resistant inflation tube ,Sterile, single use ,Curved shaped blister pack suiting the shape of product",One,55.68,SURGICAL ITEM
+624,5062,"ENDOTRACHEAL TUBE , CUFFED , SIZE 9 Soft cuff
+towards the distal end ,Kink resistant inflation tube ,Sterile, single use ,Curved shaped blister pack suiting the shape of product",One,55.68,SURGICAL ITEM
+625,5063,"TRACHEOSTOMY TUBE {PVC}, PLAIN ,STERILE, Single
+use all size ,Soft flexible flange at for easy fixation ,15 mm
+connector at terminal end which can be rotated in 360 degree direction",One,210.86,SURGICAL ITEM
+626,5064,"TRACHEOSTOMY TUBE {PVC}, CUFFED, STERILE,
+SINGLE USE .ALL SIZE. ,Soft flexible flange at for easy fixation ,15 mm connector at terminal end which can be rotated in 360 degree direction ,Balloon with non return valve",One,307.98,SURGICAL ITEM
+627,5065,"ABDOMINAL DRAIN KIT, STERILE ,HAVING DRAINAGE CATHETER AND COLLECTION BAG {2000 ml }size 24
+Graduated Bag ,Soft drainage catheter 50 cm long, with radio opaque line ,Catheter with markings at 2 cm interval",One,75.81,SURGICAL ITEM
+628,5066,"ABDOMINAL DRAIN KIT, STERILE ,HAVING DRAINAGE CATHETER AND COLLECTION BAG {2000 ml }size 28
+Graduated Bag ,Soft drainage catheter 50 cm long, with radio opaque line ,Catheter with markings at 2 cm interval",One,75.81,SURGICAL ITEM
+629,5067,"Corrugated Drainage Sheet, Sterile, Multichannel, with radio
+opaque line, Single Use - All sizes",One,11.91,"SURGICAL
+ITEM"
+630,5068,"Polypropylene Nonabsorbable Synthetic Surgical Mesh 7.5 cmX
+15 cm",One,458.75,"SURGICAL
+ITEM"
+631,5069,"Polypropylene Nonabsorbable Synthetic Surgical Mesh 15 cmX
+15 cm",One,916.61,"SURGICAL
+ITEM"
+632,5070,"sterilized umbilical cotton tape width 3 mm , length 75 cm",One,24.34,"SURGICAL
+ITEM"
+633,5071,"Bone Wax, Sterilised",One,76.86,"SURGICAL
+ITEM"
+634,5072,"Temporary Cardiac Pacing Wire (Electrode) Sterile
+Cir,Tapercut, 26 mm needle with self retaining system",One,355.71,"SURGICAL
+ITEM"
+635,6001,"Disposable Sterile Surgical Rubber Gloves, Size 6 Inches, Conforms to IS 13422,ISI marked / CE certified / FDA approved",Pair,16.46,SURGICAL ITEM
+636,6002,"Disposal sterile surgical rubber gloves size 7 inches ,Conforms to IS 13422,ISI marked / CE certified / FDA approved",Pair,16.46,SURGICAL ITEM
+637,6003,"Disposal sterile surgical rubber gloves size 7 1/2 inches
+,Conforms to IS 13422,ISI marked / CE certified / FDA approved",Pair,16.46,SURGICAL ITEM
+638,6004,"DISPOSABLE STERILE SURGICAL RUBBER GLOVES
+SIZE 8 INCHES , Conforms to IS 13422 ,ISI marked / CE certified / FDA approved",Pair,16.46,SURGICAL ITEM
+639,6009,"SURGICAL CAP, DISPOSABLE { FOR SURGEONS/
+NURSES } ,Should be manufactured from non woven fabric
+,Elastic strip stitched on the back for proper grip on the forehead
+,Blue /Green colour ,",One,2.1,SURGICAL ITEM
+640,6010,"SUCTION CATHETER , STERILE SIZE , FG 5 Length 50 cm
+(min.)",One,7.02,"SURGICAL
+ITEM"
+641,6011,"SUCTION CATHETER , STERILE SIZE , FG 6 Length 50 cm
+(min.)",One,7.02,"SURGICAL
+ITEM"
+642,6012,"SUCTION CATHETER , STERILE SIZE , FG ,8, Length 50 cm
+(min.)",One,7.48,"SURGICAL
+ITEM"
+643,6013,"SUCTION CATHETER , STERILE SIZE , FG ,10, Length 50
+cm (min.)",One,7.72,"SURGICAL
+ITEM"
+644,6014,"SUCTION CATHETER , STERILE SIZE , FG 12, Length 50
+cm (min.)",One,8.3,"SURGICAL
+ITEM"
+645,6015,"SUCTION CATHETER , STERILE SIZE , FG 14,Length 50 cm
+(min.)",One,8.3,"SURGICAL
+ITEM"
+646,6016,"SUCTION CATHETER , STERILE SIZE , FG 16, Length 50
+cm (min.)",One,8.3,"SURGICAL
+ITEM"
+647,6017,"SUCTION CATHETER , STERILE SIZE , FG ,18, Length 50
+cm (min.)",One,8.3,"SURGICAL
+ITEM"
+648,6018,"SUCTION CATHETER , STERILE SIZE , FG 20, Length 50
+cm (min.)",One,8.57,"SURGICAL
+ITEM"
+649,6019,"SUCTION CATHETER , STERILE SIZE , FG ,22 Length 50
+cm (min.)",One,8.57,"SURGICAL
+ITEM"
+650,6020,"Sterile Catheter, Single Use, for Urinary Drainage (Foley Balloon Catheter), 2 Way, Size 8 FG,conform to BP,Balloon
+capacity 3- 5 ml/30-50 ml",One,53.25,SURGICAL ITEM
+651,6021,"Sterile Catheter, Single Use, for Urinary Drainage (Foley Balloon Catheter), 2 Way, Size 10 FG,conform to BP,Balloon
+capacity 3- 5 ml/30-50 ml",One,53.25,SURGICAL ITEM
+652,6022,"Sterile Catheter, Single Use, for Urinary Drainage (Foley Balloon Catheter), 2 Way, Size ,16 FG,,conform to BP,Balloon
+capacity 3- 5 ml/30-50 ml",One,32.6,SURGICAL ITEM
+653,6023,"Sterile Catheter, Single Use, for Urinary Drainage (Foley Balloon Catheter), 2 Way, Size ,18FG,conform to ,Balloon
+capacity 3- 5 ml/30-50 ml",One,32.6,SURGICAL ITEM
+654,6024,"Sterile Catheter, Single Use, for Urinary Drainage (Foley Balloon Catheter), 2 Way, Size 20FG,conform to BP,Balloon
+capacity 3- 5 ml/30-50 ml",One,36.18,SURGICAL ITEM
+655,6025,"Sterile Catheter, Single Use, for Urinary Drainage (Foley
+Balloon Catheter), 2 Way, Size ,22FG ,conform to BP,Balloon capacity 3- 5 ml/30-50 ml",One,36.18,SURGICAL ITEM
+656,6026,"Sterile Catheter, Single Use, for Urinary Drainage (Foley
+Balloon Catheter), 2 Way, 24FG ,conform to BP,Balloon capacity 3- 5 ml/30-50 ml",One,36.18,SURGICAL ITEM
+657,6027,"INFENT FEEDING TUBE SIZE , 1OFG LENGTH 50 cm min,
+Sterile ,singly packed in blister",One,5.81,"SURGICAL
+ITEM"
+658,6028,"INFENT FEEDING TUBE SIZE , 8FG LENGTH 50 cm min,
+Sterile ,singly packed in blister",One,5.81,"SURGICAL
+ITEM"
+659,6029,"INFENT FEEDING TUBE SIZE 5FG, LENGTH 50 cm min,
+Sterile ,singly packed in blister",One,5.81,"SURGICAL
+ITEM"
+660,6030,"sterile disposable perfusion set with airway and needle { adult use },150 cm long smooth kink resistant tubing ,21 G needle ,",One,10.11,SURGICAL ITEM
+661,6031,"sterile disposable perfusion set { infusion set } with airway and needle { paediatric use } soft and smooth kink resistant PVC
+tubing ,23 G needle ,",One,11.32,SURGICAL ITEM
+662,6032,"sterile disposable infusion set with microdrip {I.V.} ,,150 cm
+long smooth kink resistant tubing",One,52.14,"SURGICAL
+ITEM"
+663,6035,"Sterile Disposable (Single Use) Teflon/ PTFE I.V. Cannula with
+integrated 3 Way stop cock. Size 18G",One,17.36,"SURGICAL
+ITEM"
+664,6036,"Sterile Disposable (Single Use) Teflon/ PTFE I.V. Cannula with
+integrated 3 Way stop cock. Size 20G",One,17.36,"SURGICAL
+ITEM"
+665,6037,"Sterile Disposable (Single Use) Teflon/ PTFE I.V. Cannula with
+integrated 3 Way stop cock. Size 22G )",One,17.36,"SURGICAL
+ITEM"
+666,6038,Sterile Disposable (Single Use) Teflon/ PTFE I.V. Cannula with integrated . Size 24G suitable for paediatric & neonatal use,One,11.8,SURGICAL ITEM
+667,6039,"NASAL OXYGEN CANNULA { SET } , TWIN BORE { ACCESSORY FOR COMPRESSED AIR BREATHING } ALL
+SIZE { ADULT & PEDIATRIC } ,Soft and kink resistant PVC
+tubing ,Tube length 200 cm",One,28.28,SURGICAL ITEM
+668,6040,"Absorbent gelatin sponge IP 66 , SIZE 80mm x 50 mmx 10 mm.
+should be sterilized",One,110.19,"SURGICAL
+ITEM"
+669,6042,Blood administration set / Blood transfusion set,One,18.55,"SURGICAL
+ITEM"
+670,6045,"RYLE ""S TUBE / NASOGASTRIC TUBE SIZE 10,Soft, kink
+resistant PVC tubing for atraumatic intubation ,Marking at 50, 60, 70 cm from tip Length 105 cm",One,9.43,SURGICAL ITEM
+671,6046,"RYLE ""S TUBE / NASOGASTRIC TUBE SIZE 12 ,Soft, kink
+resistant PVC tubing for atraumatic intubation ,Marking at 50, 60, 70 cm from tip Length 105 cm",One,9.43,SURGICAL ITEM
+672,6047,"RYLE ""S TUBE / NASOGASTRIC TUBE SIZE 14,Soft, kink
+resistant PVC tubing for atraumatic intubation ,Marking at 50, 60, 70 cm from tip Length 105 cm",One,11.66,SURGICAL ITEM
+673,6048,"RYLE ""S TUBE / NASOGASTRIC TUBE SIZE 16,Soft, kink
+resistant PVC tubing for atraumatic intubation ,Marking at 50, 60, 70 cm from tip Length 105 cm",One,11.66,SURGICAL ITEM
+674,6049,"RYLE ""S TUBE / NASOGASTRIC TUBE SIZE 18,Soft, kink
+resistant PVC tubing for atraumatic intubation ,Marking at 50, 60, 70 cm from tip Length 105 cm",One,12.45,SURGICAL ITEM
+675,8001,"Chromic (3/8 Cir RB Needle 40mm, Length 76 cm)",One,43.65,"SURGICAL
+ITEM"
+676,8002,"Chromic (l/2 Cir RB Needle 20mm, Length 76 cm)",One,45.26,"SURGICAL
+ITEM"
+677,8003,"Chromic (l/2 Cir RB Needle 30mm, Length 76 cm)",One,39,"SURGICAL
+ITEM"
+678,8004,"Chromic (l/2 Cir RB Needle 30mm, Length 76 cm)",One,39,"SURGICAL
+ITEM"
+679,8005,"Chromic (l/2 Cir RB Needle 40mm, Length 76 cm)",One,43.65,"SURGICAL
+ITEM"
+680,8006,"Chromic (3/8 RB Needle 30mm, Length 76 cm)",One,44.61,"SURGICAL
+ITEM"
+681,8007,"Chromic (1/2 Cir RB Needle 45 mm, Length 100 cm)",One,59.75,"SURGICAL
+ITEM"
+682,8008,"Chromic (3/8 Cir RCutting Needle 26mm, Length 76 cm)",One,51.95,"SURGICAL
+ITEM"
+683,8012,"ABSORBABLE SURGICAL SUTURE { SYNTHETIC } 1/2
+Cir RB NIDDLE 20 mm LENGTH 70 cm",One,44.78,"SURGICAL
+ITEM"
+684,8013,"ABSORBABLE SURGICAL SUTURE { SYNTHETIC } 1/2
+Cir RB NIDDLE 30 mm LENGTH 90 cm",One,45.51,"SURGICAL
+ITEM"
+685,8014,"ABSORBABLE SURGICAL SUTURE { SYNTHETIC } 1/2
+Cir RB NIDDLE 30 mm LENGTH 90 cm",One,48.28,"SURGICAL
+ITEM"
+686,8015,ABSORBABLE SURGICAL SUTURE { SYNTHETIC } 1/2 Cir TAPERCUT NIDDLE { HEAVY } 40 mm LENGTH 90 cm,One,56.08,SURGICAL ITEM
+687,8016,"ABSORBABLE SURGICAL SUTURE { SYNTHETIC } 1/2
+Cir RB NIDDLE 40 mm LENGTH 90 cm",One,47,"SURGICAL
+ITEM"
+688,8018,"ABSORBABLE SURGICAL SUTURE { SYNTHETIC } 1/2
+Cir RB NIDDLE 20 mm LENGTH 70 cm",One,53.38,"SURGICAL
+ITEM"
+689,8019,"ABSORBABLE SURGICAL SUTURE { SYNTHETIC } {1/2
+Cir RB NIDDLE 40 mm LENGTH 90 cm}",One,47.8,"SURGICAL
+ITEM"
+690,8020,"ABSORBABLE SURGICAL SUTURE { SYNTHETIC } 1/2
+Cir RB NIDDLE 40 mm LENGTH 90 cm",One,47.47,"SURGICAL
+ITEM"
+691,8021,"ABSORBABLE SURGICAL SUTURE { SYNTHETIC } 3/8
+Cir CUTTING NIDDLE 22 mm LENGTH 45 cm",One,56.08,"SURGICAL
+ITEM"
+692,8022,"Absorbable Surgical Suture (Synthetic) 3/8 Circle Cutting 16mm
+Needle, Suture Length 70cm",One,172.1,"SURGICAL
+ITEM"
+693,8024,"silk { 3/8 cir Reverse CUTTING NEEDLE 26 MM , LENGTH
+76 cm }",One,34.74,"SURGICAL
+ITEM"
+694,8025,"silk { 3/8 cir Reverse CUTTING NEEDLE 45 MM , LENGTH
+76 cm }",One,34.74,"SURGICAL
+ITEM"
+695,8026,"silk { 3/8 cir RB NEEDLE 20 MM , LENGTH 76 cm }",One,37.36,"SURGICAL
+ITEM"
+696,8027,"silk { 3/8 cir RB NEEDLE 16 MM , LENGTH 76 cm }",One,37.36,"SURGICAL
+ITEM"
+697,8028,"Polyamide (3/8 Cir Micropoint Round Body ,6mm Length 38
+cm)",One,133.32,"SURGICAL
+ITEM"
+698,8029,"Polyamide (3/8 Conventional Cutting Needle 16mm Length 70
+cm)",One,34.74,"SURGICAL
+ITEM"
+699,8030,"POLYAMIDE { 3/8} conventional cutting needle 19 mm length
+60 cm",One,78.77,"SURGICAL
+ITEM"
+700,8031,"POLYAMIDE { 3/8} cir slim blade cutting needle 15 mm length
+70 cm }",One,78.77,"SURGICAL
+ITEM"
+701,8032,Polyamide (3/8 Cir R Cutting Needle 45mm Length 70 cm.),One,34.74,"SURGICAL
+ITEM"
+702,8033,Polyamide (3/8 Cir R Cutting Needle 45mm Length 70 cm.),One,37.36,"SURGICAL
+ITEM"
+703,8034,"POLYAMIDE { 3/8} cutting spatulated edge needle , double
+arm needle 6 mm, suture 30 - 42 cm,",One,207.09,"SURGICAL
+ITEM"
+704,8035,"POLYPROPYLENE { 1/2 Cir RB 13 mm needle , length 75 cm
+DOUBLE Arm",One,180.17,"SURGICAL
+ITEM"
+705,8036,POLYPROPYLENE { 3/8 Cir RB DOUBLE 8mm needle 60 cm,One,276.15,"SURGICAL
+ITEM"
+706,8038,POLYPROPYLENE { 3/8 Cir RB 16 mm needle length 70 cm,One,45.51,"SURGICAL
+ITEM"
+707,8039,POLYPROPYLENE { 1/2 Cir RB needle 30 mm length 90 cm },One,45.51,"SURGICAL
+ITEM"
+708,8040,"POLYPROPYLENE { 1/2 Cir RB heavy needle 45 mm length
+90 cm",One,40.25,"SURGICAL
+ITEM"
+709,8041,"POLYPROPYLENE { 1/2 Cir RB DOUBLE needle 17 mm
+length 90 cm",One,220.49,"SURGICAL
+ITEM"
+710,8046,"POLYPROPYLENE { 1/2 Cir Tapercut double needle 25 mm
+leanth 90 cm} DOUBLE ARM",One,174.45,"SURGICAL
+ITEM"
+711,8047,"POLYPROPYLENE { 3/8 Cir CONVENTIONAL CUTTING
+PC-3 NEEDLE 15 MM LENGTH 60 CM}",One,126.92,"SURGICAL
+ITEM"
+712,8048,"POLYPROPYLENE { 3/8 Cir RB 13 mm needle length 90 cm
+DOUBLE ARM",One,225.75,"SURGICAL
+ITEM"
+713,8049,"POLYPROPYLENE { 1/2 Cir RB DOUBLE needle 16 mm
+length 90 cm",One,56.88,"SURGICAL
+ITEM"
+714,8050,"POLYPROPYLENE { 3/8 Cir CUUTTING needle length 25 cm
+LENGTH 45 CM",One,98.32,"SURGICAL
+ITEM"
+715,8052,"POLYPROPYLENE { 1/2 Cir REVERCE CUTTING needle 45
+mm length 100 cm",One,54.01,"SURGICAL
+ITEM"
+716,8053,"POLYPROPYLENE { 3/8 Cir RB 8 mm DOUBLE needle
+SUTURE length 70 cm",One,355.71,"SURGICAL
+ITEM"
+717,8055,"POLYPROPYLENE { 1/2 Cir CC 13 mm needle, SUTURE
+LENGH OF 70 cm DOUBLE ARM.",One,180.17,"SURGICAL
+ITEM"
+718,8056,"POLYPROPYLENE { 1/2 CirCLE TAPERCUT 17 mm needle,
+SUTURE LENGH OF 90 cm DOUBLE ARM.",One,56.88,"SURGICAL
+ITEM"
+719,8057,"POLYPROPYLENE { 1/2 Cir RB 25 mm needle SUTURE
+length 75 cm DOUBLE ARM.",One,157.15,"SURGICAL
+ITEM"
+720,8059,"POLYBUTYLATE / SILICON COATED POLYSTER
+BRAIDED white { 1/2 cir Tapercut ,17 mm double needle length 90 cm }",One,188.48,SURGICAL ITEM
+721,8060,"POLYBUTYLATE / SILICON COATED POLYSTER
+BRAIDED green/ blue { 1/2 cir Tapercut ,17 mm double needle length 90 cm }",One,188.48,SURGICAL ITEM
+722,8061,"POLYBUTYLATE / SILICON COATED POLYSTER
+BRAIDED GREEN / BLUE { 1/2 cir Tapercut ,17 mm double needle length 90 cm } double arm with PTFE pledgets size 6 mm x 3mm x 1.5 mm",One,216.29,SURGICAL ITEM
+723,8062,"POLYBUTYLATE / SILICON COATED POLYSTER
+BRAIDED GREEN / BLUE { 1/2 cir Tapercut ,25 mm double needle length 90 cm } double arm with PTFE pledgets size 6 mm x 3mm x 1.5 mm",One,216.29,SURGICAL ITEM
+724,8063,"COTED POLYSTER BRAIDED { GREEN / BLUE } SIZE 3/0
+1/2 cir Tapercut ,25 mm double needle length 90 cm",One,138.28,"SURGICAL
+ITEM"
+725,8064,"Polyglecaprone/ 1/2 circle oval RB neele 26 mm , needle , suture
+length of 70 cm. }",One,184.47,"SURGICAL
+ITEM"
+726,8065,"Polyglecaprone /Polyglyconate (l/2 Circle Oval RB Contrast
+Needle 26mm, suture length 70cm)",One,164.15,"SURGICAL
+ITEM"
+727,8067,"Polyglecaprone /Polyglyconate (3/8 Circle Cutting 25mm
+Needle, Suture Length of 70cm)",One,95.87,"SURGICAL
+ITEM"
+728,8078,"(a) Skin Grafting Knife Blade (Sterile) made of carbon steel or stainless steel material 158 mm long individually wrapped in wrapper corrosion inhibitor paper in single packet, in packs of
+10. The edge must be sharp enough to cut the skin in a single shave and should snugly fit in the handle",One,105.16,SURGICAL ITEM
+729,8080,"FACE MASK , DISPOSABLE ,Should be manufactured from non woven poly prop fabric ,Should be 3 ply construction
+,Should have high Bacterial filtration efficiency ,Should be heat sealed to keep 3 layers together ,Standard Size 17.5 x 9 cm
+,Colour Green / Blue ,There should be a string each at all four cor ners, length of string should be 40 cm",One,1.99,SURGICAL ITEM
+730,8081,"URINE COLLECTING BAG FOR NEW BORN / PAEDIATRIC URINE COLLECTING BAG Should have
+suitability for both male and female patients ,Capacity 100 ml
+,Sterile",One,9.75,SURGICAL ITEM
+731,8082,"UMBILICAL CATHETER { FOR NEW BORN } ALL SIZE
+,With female flexible mount ,Open tip should be soft, rounded, atraumatic ,Length 40 cm",One,8.85,SURGICAL ITEM
+732,8083,"a--Sanitary Napkin, Beltless 1. Covering Covering of the absorbent filler shall be good quality knitted sleeve or non- woven fabric which has sufficient porosity to permit the assembled napkin to meet the absorbency requirements. The napkins shall have a non absorbent barrier on one side which shall have an identifying mark indicating the side of the barrier.
+2. Absorbent Filler The filler material shall consist of cellulose pulp/ wadding, and shall be free from lumps, oil spots, dirt or foreign material, etc. 3. Back Strip A back strip for sticking the sanitary napkin onto the underwear should be there using good quality adhesive material. 4. Size - The size of absorbent section
+/ complete sanitary napkin shall be as follows: ( in mm) Absorbent section Total Pad Length 210 +_ 10 230 +_ 10 Width
+60 to 75 70 to 85 Thickness 8 +_ 2 5. Weight : Not more than 10 gm",Pack,21.91,SURGICAL ITEMS
+733,8084,"b--Sanitary Napkin, Belt-type 1. Covering Covering of the absorbent filler shall be good quality knitted sleeve or non- woven fabric which has sufficient porosity to permit the assembled napkin to meet the absorbency requirements. The napkins shall have a non absorbent barrier on one side which shall have an identifying mark indicating the side of the barrier.
+2. Absorbent Filler The filler material shall consist of cellulose pulp/ wadding, and shall be free from lumps, oil spots, dirt or foreign material, etc. 3. Size - The size of absorbent section / complete sanitary napkin shall be as follows: ( in mm) Absorbent section Pad Length 220 +_ 10 Width 70 +_ 5 Thickness 17 +_ 3
+4. Weight : 12 +_ 3 gm 5. Pack Six napkins in a pack. 6. Elastic Belt with loops shall be provided in each pack. 7. Absorbency: The napkin should be able to absorb not less than 30 ml of normal saline or coloured water or test fluid when poured on to the centre of the napkin at the rate of 15 ml per minute.",Pack,23.06,SURGICAL ITEMS
